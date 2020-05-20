@@ -1,3 +1,7 @@
 [submodule "themes/chunky"]
 	path = themes/chunky
 	url = https://github.com/puresyntax71/hugo-theme-chunky-poster
+[submodule "mouuii.github.io"]
+	path = mouuii.github.io
+	url = https://github.com/mouuii/mouuii.github.io.git
+	branch = master
